@@ -1,0 +1,5 @@
+com\register\app\model\User.class
+com\register\app\controller\UserController.class
+com\register\app\RegisterApplication.class
+com\register\app\service\UserService.class
+com\register\app\repository\UserRepository.class
